@@ -1,7 +1,4 @@
 # ESG_tool
-
-CODE WILL BE AVAIABALE soon on Github...
-
 This repository contains a Python script for performing gene data analysis and similarity comparison using the `pandas`, `rapidfuzz`, and `neo4j` libraries. The script processes gene data stored in CSV files, populates a Neo4j graph database with the data, and calculates similarity scores between genes based on their characteristics.
 
 ## Prerequisites
