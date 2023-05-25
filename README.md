@@ -57,9 +57,6 @@ The Python script consists of the following components:
 
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-## Authors
-
-- [Pengchong Ma](https://github.com/mapengchong)
 
 ## Contact
 
