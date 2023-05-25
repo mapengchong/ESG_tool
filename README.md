@@ -44,9 +44,4 @@ The Python script consists of the following components:
 
 ## Contributing
 
-Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-
-## Contact
-
-For any inquiries or questions, please contact [pma5@unl.edu]
+Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. For any inquiries or questions, please contact [pma5@unl.edu]
