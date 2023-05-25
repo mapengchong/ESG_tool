@@ -1,7 +1,6 @@
 # ESG_tool
 
 CODE WILL BE AVAIABALE soon on Github...
-# Gene Data Analysis Pipeline
 
 This repository contains a Python script for performing gene data analysis and similarity comparison using the `pandas`, `rapidfuzz`, and `neo4j` libraries. The script processes gene data stored in CSV files, populates a Neo4j graph database with the data, and calculates similarity scores between genes based on their characteristics.
 
@@ -50,6 +49,7 @@ The Python script consists of the following components:
 
 
 ## Acknowledgments
+
 - The `rapidfuzz` library: [https://github.com/maxbachmann/rapidfuzz](https://github.com/maxbachmann/rapidfuzz)
 - The `neo4j` library: [https://neo4j.com/developer/python/](https://neo4j.com/developer/python/)
 
@@ -59,12 +59,8 @@ Contributions to this project are welcome. If you encounter any issues or have s
 
 ## Authors
 
-- [Your Name](https://github.com/yourusername)
+- [Pengchong Ma](https://github.com/mapengchong)
 
 ## Contact
 
-For any inquiries or questions, please contact [email protected]
-
----
-
-Please customize the sections, such as "Authors" and "Contact," according to your information. Additionally, ensure that you provide accurate and relevant information in the sections related to dependencies, acknowledgments, and contributing.
+For any inquiries or questions, please contact [pma5@unl.edu]
