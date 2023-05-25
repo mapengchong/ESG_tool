@@ -1,0 +1,8 @@
+name: ESG
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pandas
+  - rapidfuzz
+  - neo4j
