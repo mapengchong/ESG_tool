@@ -33,7 +33,7 @@ Follow these steps to run the gene data analysis pipeline:
 
 7. Open a terminal or command prompt and navigate to the directory where the script is located.
 
-8. Run the script by executing the command: `python script_name.py` or `python3 script_name.py`.
+8. Run the script by executing the command: `python run.py` or `python3 run.py`.
 
 9. Observe the output in the terminal or check your Neo4j graph database to see the populated gene data and similarity scores.
 
