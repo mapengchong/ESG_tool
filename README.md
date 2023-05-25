@@ -2,15 +2,7 @@
 This repository contains a Python script for performing gene data analysis and similarity comparison using the `pandas`, `rapidfuzz`, and `neo4j` libraries. The script processes gene data stored in CSV files, populates a Neo4j graph database with the data, and calculates similarity scores between genes based on their characteristics.
 
 ## Prerequisites
-
-Before running the script, make sure you have the following dependencies installed:
-
-- Python 3.x
-- pandas
-- rapidfuzz
-- neo4j
-
-You can install the required packages using `pip` or `conda`.
+Before running the script, make sure you have the dependencies installed. You can install the required packages using `conda env create -f requirement.yaml`.
 
 ## Getting Started
 
