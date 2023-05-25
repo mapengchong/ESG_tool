@@ -12,7 +12,7 @@ Follow these steps to run the gene data analysis pipeline:
 
 2. Ensure that the necessary gene data CSV files (`gene_data_locus.csv` and `gene_data_GO.csv`) are present in the same directory as the script.
 
-3. Open the script file in a text editor or IDE of your choice.
+3. Open the script file in IDE of your choice.
 
 4. Customize the script according to your needs by uncommenting the desired function calls in the `main()` function.
 
