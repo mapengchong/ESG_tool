@@ -48,13 +48,8 @@ The Python script consists of the following components:
 
 - `main()` function: This function serves as the entry point of the script. It creates an instance of the `Neo4j_Connection` class and calls its methods to populate the database and perform similarity scoring.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
-
-- The `pandas` library: [https://pandas.pydata.org/](https://pandas.pydata.org/)
 - The `rapidfuzz` library: [https://github.com/maxbachmann/rapidfuzz](https://github.com/maxbachmann/rapidfuzz)
 - The `neo4j` library: [https://neo4j.com/developer/python/](https://neo4j.com/developer/python/)
 
